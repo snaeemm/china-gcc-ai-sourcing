@@ -11,7 +11,7 @@
 
 <img src="assets/demo.gif" alt="Walkthrough of the concept" width="720">
 
-**[Case study on the portfolio →](https://shahzeb-naeem.vercel.app/en/work/china-gcc-sourcing)**
+**[Case study on the portfolio →](https://shahzeb-naeem.vercel.app/en/work/china-gcc-sourcing)** &nbsp;·&nbsp; **[Full walkthrough film →](assets/walkthrough.mp4)**
 
 </div>
 
